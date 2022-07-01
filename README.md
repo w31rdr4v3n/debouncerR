@@ -5,3 +5,13 @@ You need to create account on [Debounce.io](https://app.debounce.io/) and create
 Use **API KEY** in script.
 
 ![demo](res.png)
+
+
+Usage:
+```sh
+python3 debouncer.py [FILE]
+```
+OR
+```sh
+python3 debouncer.py [SINGLE EMAIL]
+```
